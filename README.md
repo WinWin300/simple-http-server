@@ -20,7 +20,7 @@ Installation
 Clone the repository to your local machine:
 
 1. Copy code
-git clone https://github.com/your-username/simple-http-server.git
+git clone https://github.com/WinWin300/simple-http-server.git
 cd simple-http-server
 Install any necessary dependencies (if any):
 
