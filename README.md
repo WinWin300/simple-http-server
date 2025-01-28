@@ -1,6 +1,6 @@
 **Simple HTTP Server with Security Headers**
 Overview
-Welcome to the Simple HTTP Server project! This is a lightweight HTTP server built with Python that serves static files and implements essential security headers to ensure better web security for users.
+Welcome to the Simple HTTP Server project. This is a lightweight HTTP server built with Python that serves static files and implements essential security headers to ensure better web security for users.
 
 In today’s digital landscape, web security is crucial, even for simple applications. This project incorporates industry-standard security headers and configurations to protect against common vulnerabilities and attacks.
 
